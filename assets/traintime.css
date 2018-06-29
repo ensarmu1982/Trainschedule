@@ -1,0 +1,18 @@
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  clear: both;
+  font-size: 18px;
+}
+
+#train-table th, td {
+  display: inline-block;
+  width: 16.575%;
+}
+
+.jambotron{
+  margin: 0;
+  padding: 2px;
+
+}
